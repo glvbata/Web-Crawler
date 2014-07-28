@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/40/trunk/%20operating-systems-web-crawler/Web%20Crawler/src
+END
+WebCrawler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/41/trunk/%20operating-systems-web-crawler/Web%20Crawler/src/WebCrawler.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/42/trunk/%20operating-systems-web-crawler/Web%20Crawler/src/Parser.java
+END
+UserInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/45/trunk/%20operating-systems-web-crawler/Web%20Crawler/src/UserInterface.java
+END
+Analyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/45/trunk/%20operating-systems-web-crawler/Web%20Crawler/src/Analyzer.java
+END
+Retriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/43/trunk/%20operating-systems-web-crawler/Web%20Crawler/src/Retriever.java
+END
